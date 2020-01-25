@@ -1,5 +1,7 @@
 # beautiful
 
+[![Build Status](https://travis-ci.com/Bizhev/beautiful.svg?branch=master)](https://travis-ci.com/Bizhev/beautiful)
+![Build Status](https://david-dm.org/bizhev/beautiful.svg)
 > My stunning Nuxt.js project
 
 ## Build Setup
