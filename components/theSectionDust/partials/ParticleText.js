@@ -28,6 +28,7 @@ export default class ParticleText {
           this.app.stage.addChild(p.sprite)
         }
       }
+      console.log(this.particles, heart)
       this.animate()
     })
   }

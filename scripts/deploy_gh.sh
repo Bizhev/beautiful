@@ -6,7 +6,7 @@ autor="Bizhev"
 # STOP error
 set -e
 
-yarn build
+yarn generate
 cd $dir
 
 # echo 'www.example.com' > CNAME

@@ -9,7 +9,7 @@ export default class Particle {
     this.sprite.texture.frame = new PIXI.Rectangle(x, y, size, size)
 
     this.sprite.x = x
-    this.sprite.y = y
+    this.prite.y = y
 
     this.friction = 0.9
 
@@ -23,6 +23,7 @@ export default class Particle {
     this.dirX = Math.random() - 0.5
     this.dirY = Math.random() - 0.5
   }
+
   update(mouse) {
     const distanceX = mouse.x - this.sprite.x
     const distanceY = mouse.y - this.sprite.y
