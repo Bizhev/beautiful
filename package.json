@@ -6,6 +6,7 @@
   "private": true,
   "scripts": {
     "dev": "nuxt",
+    "deploy": "sh scripts/deploy_gh.sh",
     "build": "nuxt build",
     "start": "nuxt start",
     "generate": "nuxt generate",
