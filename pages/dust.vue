@@ -1,6 +1,5 @@
 <template>
   <div>
-    <h2>DUST</h2>
     <the-section-dust />
   </div>
 </template>
