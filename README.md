@@ -2,6 +2,8 @@
 
 [![Build Status](https://travis-ci.com/Bizhev/beautiful.svg?branch=master)](https://travis-ci.com/Bizhev/beautiful)
 ![Build Status](https://david-dm.org/bizhev/beautiful.svg)
+
+[Demo](https://bizhev.github.io/beautiful/)
 > My stunning Nuxt.js project
 
 ## Build Setup
