@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import * as PIXI from 'pixi.js'
 import heart from './heart.png'
 import Particle from './Particle'
